@@ -1,0 +1,10 @@
+dependencies:
+  - name: jquery
+    version: 2.1.1
+    src: htmlwidgets/lib/jquery
+    script: jquery-2.1.1.min.js
+  - name: materialize
+    version: 0.96.1
+    src: htmlwidgets/lib/materialize/dist
+    script: js/materialize.min.js
+    stylesheet: css/materialize.min.css
