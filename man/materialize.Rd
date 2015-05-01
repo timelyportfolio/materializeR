@@ -4,7 +4,7 @@
 \alias{materialize}
 \title{Add \href{http://materializecss.com/}{materialize} to your R}
 \usage{
-materialize(message, width = 0, height = 0)
+materialize(..., width = 0, height = 0)
 }
 \description{
 <Add Description>
