@@ -9,10 +9,10 @@ materialize(..., width = 0, height = 0)
 \arguments{
 \item{...}{expansion room.  The \code{...} currently are a placeholder for future functionality.}
 
-\item{width}{\code{integer} width in pixel for container.  \code{width = 0} since the expectation is
+\item{width}{\code{integer} width in pixels for container.  \code{width = 0} since the expectation is
 for the container to be an invisible byproduct.}
 
-\item{height}{\code{integer} heightin pixel for container.  \code{height = 0} since the expectation is
+\item{height}{\code{integer} height in pixels for container.  \code{height = 0} since the expectation is
          for the container to be an invisible byproduct.}
 }
 \description{
