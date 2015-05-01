@@ -4,4 +4,4 @@
 
 
 ### not a normal htmlwidget
-Since `materialize` is a very full-featured and complete framework, the traditional full wrapping of an `htmlwidget` is nearly impossible.  For this reason, this `htmlwidget` seeks more to provide a thin convenience layer primarily aimed to ease dependency injection for the required Javascript and CSS.  What this means is that you will need to know some `HTML/JS/CSS` or copy/paste well to make it work.
+Since `materialize` is a very full-featured and complete framework, the traditional full wrapping of an `htmlwidget` is nearly impossible.  For this reason, this `htmlwidget` seeks more to provide a thin convenience layer primarily aimed to ease dependency injection for the required Javascript and CSS.  What this means is that **you will need to know some `HTML/JS/CSS`** or copy/paste well to make it work.
