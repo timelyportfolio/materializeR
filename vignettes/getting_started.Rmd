@@ -135,5 +135,6 @@ Thanks so much
 
 - the geniuses Alvin Wang, Alan Chang, Alex Mark, Kevin Louie behind [`materialize`](http://materializecss.com)
 - Google for Material Design
+- jQuery Foundation
 - Ramnath Vaidyanathan and RStudio for `htmlwidgets`
 - all the contributors to `R` and `JavaScript`

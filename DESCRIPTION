@@ -1,10 +1,26 @@
 Package: materializeR
-Title: What the package does (one line)
+Title: materialize front-end web framework as an htmlwidget in R
 Version: 0.1
-Authors@R: "First Last <first.last@example.com> [aut, cre]"
-Description: What the package does (one paragraph)
+Authors@R: c(
+    person(
+      "materialize", "team", role = c("aut", "cph"),
+      comment = "materialize library in htmlwidgets/lib, http://materializecss.com"
+    ),
+    person(
+      "jQuery", "Foundation", role = c("aut", "cph"),
+      comment = "jQuery library in htmlwidgets/lib, http://jquery.com"
+    ),
+    person(
+      "Kenton", "Russell", role = c("aut", "cre"),
+      comment = "R interface", email = "kent.russell@timelyportfolio.com"
+    )
+  )
+Maintainer: Kent Russell<kent.russell@timelyportfolio.com>
+Description: This package makes the materialize JS/CSS/HTML framework
+              easily accessible in R with the convenience, flexibility, and awareness
+              of an htmlwidget.
 Depends: R (>= 3.1.2)
-License: What license is it under?
+License: MIT + file LICENSE
 LazyData: true
 Suggests: knitr
 VignetteBuilder: knitr
