@@ -20,6 +20,7 @@ Description: This package makes the materialize JS/CSS/HTML framework
               easily accessible in R with the convenience, flexibility, and awareness
               of an htmlwidget.
 Depends: R (>= 3.1.2)
+Imports: htmlwidgets
 License: MIT + file LICENSE
 LazyData: true
 Suggests: knitr
